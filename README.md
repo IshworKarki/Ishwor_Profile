@@ -52,14 +52,20 @@
 📷 **Screenshots:** 
 🔗 **GitHub Repo (Private):** Available upon request  
 
-### 🔹 Project 9: Tipsy Quiz
-📌 **Description:** Flutter Android/Ios App (Quiz app to play with your friends making private room).
+### 🔹 Project 9: Sharesansar
+📌 **Description:** Flutter Android/Ios App (Fintech stock related app).
 🛠 **Tech Stack:** Flutter, Firebase
 📷 **Screenshots:** 
 🔗 **GitHub Repo (Private):** Available upon request  
 
 ### 🔹 Project 10: We Park
 📌 **Description:** Flutter Android/Ios App (Parking provider application).
+🛠 **Tech Stack:** Flutter, Firebase
+📷 **Screenshots:** 
+🔗 **GitHub Repo (Private):** Available upon request  
+
+### 🔹 Project 11: Tipsy Quiz
+📌 **Description:** Flutter Android/Ios App (Quiz app to play with your friends making private room).
 🛠 **Tech Stack:** Flutter, Firebase
 📷 **Screenshots:** 
 🔗 **GitHub Repo (Private):** Available upon request  
